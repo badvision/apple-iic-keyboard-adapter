@@ -1,0 +1,18 @@
+# Build directories
+build/
+.pio/
+.vscode/
+
+# IDE files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Compiled firmware
+*.bin
+*.elf
+*.hex
+
+# ESP-IDF specific
+sdkconfig.old
