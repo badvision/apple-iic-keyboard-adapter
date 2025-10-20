@@ -457,7 +457,7 @@ pie title Cost Breakdown - Full Featured ($32)
 ### Comparison vs. Alternatives
 
 | Solution | Cost | USB | BT | Difficulty | Time |
-|----------|------|-----|----|-----------||------|
+|----------|------|-----|----|-----------|------|
 | **This Project (Breadboard)** | $24 | ✅ | ✅ | Easy | 2 weeks |
 | **This Project (PCB)** | $32 | ✅ | ✅ | Easy | 4 weeks |
 | Original AY-3600 Repair | $50+ | ❌ | ❌ | Hard | N/A |
